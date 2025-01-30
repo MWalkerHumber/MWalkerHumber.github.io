@@ -1,0 +1,18 @@
+html {
+    /* check if this is valid */
+    font-family: sans-serif;
+}
+footer {
+    text-align: center;
+}
+h1 {
+    color: orange;
+    text-shadow: 2px 2px black;
+}
+a {
+    color: orange;
+    font-weight: bold;
+}
+#welcome_message::first-letter {
+    font-size: 2em;
+}
